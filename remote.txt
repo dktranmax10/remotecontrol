@@ -11,4 +11,4 @@ safevolt disabled
 globalcore 1200
 globalmem 2200
 globalpowertune 5
-globalfan 100
+globalfan 50

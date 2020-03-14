@@ -1,0 +1,14 @@
+globalminer claymore
+globaldriver amdgpu
+maxgputemp 85
+poolemail dktranmax@gmail.com
+stratumproxy enabled
+proxywallet 0x21df8ad7c90e0d8cf265a3aa8594debc92cb289d
+proxypool1 eu1.ethermine.org:4444
+proxypool2
+flags --cl-global-work 8192 --farm-recheck 200
+safevolt disabled
+globalcore 1200
+globalmem 2200
+globalpowertune 5
+globalfan 60
